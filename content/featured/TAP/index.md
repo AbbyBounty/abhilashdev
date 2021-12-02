@@ -3,7 +3,8 @@ date: '3'
 title: 'Build a website for TAP'
 cover: './demo.png'
 cta: 'https://github.com/AbbyBounty/TAP-Frontend-PreWork'
-github: 'https://abbybounty.github.io/TAP-Frontend-PreWork'
+github: 'https://github.com/AbbyBounty/TAP-Frontend-PreWork'
+external: 'https://abbybounty.github.io/TAP-Frontend-PreWork'
 tech:
   - React
   - Javascript
