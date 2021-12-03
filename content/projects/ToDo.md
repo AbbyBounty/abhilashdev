@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2021-09-10'
 title: 'To Do App'
 github: 'https://github.com/AbbyBounty/todo-vue'
 external: 'https://todo-vue-js.vercel.app'

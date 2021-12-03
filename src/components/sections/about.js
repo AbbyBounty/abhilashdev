@@ -154,7 +154,16 @@ const About = () => {
               & exposure to backend dev.
             </p>
 
-            <p>I'm currently learning DevOps ( Docker , Kubernetes and AWS )</p>
+            <p>
+              I'm currently learning{' '}
+              <span style={{ color: '#64ffda' }}> DevOps ( Docker , Kubernetes and AWS )</span>
+            </p>
+
+            <p>
+              <span style={{ color: '#64ffda' }}>When I'm not in front of a computer screen,</span>{' '}
+              I'm probably trekking, wandering around on my motorcycle , or crossing off another
+              item on my bucket list.
+            </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

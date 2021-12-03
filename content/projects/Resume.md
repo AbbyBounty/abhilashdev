@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2020-07-10'
 title: 'My Online Resume'
 github: 'https://github.com/AbbyBounty/resume'
 external: 'https://abbybounty.github.io/resume'
